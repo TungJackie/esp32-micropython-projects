@@ -9,7 +9,7 @@ A curated collection of ESP32 MicroPython projects with reusable libraries and u
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [OLED Clock](/feature/oled-clock/smart_clock.py) | WiFi network clock with NTP sync | ✅ Stable |
+| [OLED Clock](https://github.com/Tungjackie/esp32-micropython-projects/tree/feature/oled-clock) | WiFi network clock with NTP sync | ✅ Stable |
 
 ## 🚀 Quick Start
 
