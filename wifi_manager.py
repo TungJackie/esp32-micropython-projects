@@ -1,3 +1,7 @@
+"""
+WiFi Manager - Handles WiFi connection with retry logic
+"""
+
 import network
 import time
 
